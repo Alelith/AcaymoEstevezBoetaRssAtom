@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Mi Atom</title>
+    <link href="https://acaymoestevezboetarssatom.000webhostapp.com/rss/atom.xml" rel="self" type="application/rss+xml"/>
+    <updated>2022-02-02T09:00:00Z</updated>
+    <author><name>Acaymo Estevez Boeta</name></author>
+    <id>https://acaymoestevezboetarssatom.000webhostapp.com/rss/rss.xml</id>
+    <entry>
+        <title>Aumenta la tasa de abandono de gatos</title>
+        <link href="https://www.fundacion-affinity.org/perros-gatos-y-personas/busco-un-animal-de-compania/las-cifras-del-abandono-de-perros-y-gatos-aun" />
+        <id>https://www.fundacion-affinity.org/perros-gatos-y-personas/busco-un-animal-de-compania/las-cifras-del-abandono-de-perros-y-gatos-aun</id>
+        <updated>2022-02-05T09:00:00Z</updated>
+        <content>En los ultimos anos la tasa de abandono de mascotas no hace sino aumentar.</content>
+    </entry>
+    <entry>
+        <title>Will Smith agrede a un humorista</title>
+        <link href="https://as.com/tikitakas/videos/la-broma-que-lo-desato-todo-vean-la-cara-de-will-smith-y-de-su-mujer-v/" />
+        <id>https://as.com/tikitakas/videos/la-broma-que-lo-desato-todo-vean-la-cara-de-will-smith-y-de-su-mujer-v/</id>
+        <updated>2022-02-10T09:00:00Z</updated>
+        <content>Will Smith despues de una burla hacia su mujer agrede al humorista</content>
+    </entry>
+    <entry>
+        <title>25 años de la muerte de lola flores</title>
+        <link href="https://www.lavanguardia.com/gente/20200516/481158144259/lola-flores-fallecimiento-aniversario-lolita-rosario-alba-flores.html" />
+        <id>https://www.lavanguardia.com/gente/20200516/481158144259/lola-flores-fallecimiento-aniversario-lolita-rosario-alba-flores.html</id>
+        <updated>2022-02-12T09:00:00Z</updated>
+        <content>La gran faraona nos ha dejado</content>
+    </entry>
+</feed>
