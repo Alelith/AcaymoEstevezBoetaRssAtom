@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Mi Atom</title>
-    <link href="https://alelith.github.io/AcaymoEstevezBoetaRssAtom/rss/atom.atom" rel="self" type="application/rss+xml"/>
+    <link href="https://alelith.github.io/AcaymoEstevezBoetaRssAtom/rss/atom.xml" rel="self" type="application/rss+xml"/>
     <updated>2022-02-02T09:00:00Z</updated>
     <author><name>Acaymo Estevez Boeta</name></author>
     <id>https://acaymoestevezboetarssatom.000webhostapp.com/rss/rss.xml</id>
