@@ -3,13 +3,13 @@
     <channel>
         <title>Mi RSS</title>
         <link>https://acaymoestevezboetarssatom.000webhostapp.com/</link>
-        <atom:link href="https://acaymoestevezboetarssatom.000webhostapp.com/rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://alelith.github.io/AcaymoEstevezBoetaRssAtom/rss/rss.rss" rel="self" type="application/rss+xml"/>
         <description>Trabajo clase RSS</description>
         <language>ES</language>
         <image>
             <title>Mi RSS</title>
             <url>https://www.trecebits.com/wp-content/uploads/2015/08/slide_303383_2577028_free.gif</url>
-            <link>https://acaymoestevezboetarssatom.000webhostapp.com/</link>
+            <link>https://alelith.github.io/AcaymoEstevezBoetaRssAtom/</link>
             <width>90</width>
             <height>36</height>
         </image>
